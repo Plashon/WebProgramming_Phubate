@@ -1,0 +1,28 @@
+header{
+    line-height: 1.5;
+    display: inline-block;
+    vertical-align: middle;
+
+}
+.profile{
+    width: 700px;
+    height: 200px;
+    background-color: blanchedalmond;
+    padding: 70px 20px;
+    display: flex;
+    border-radius: 30px;
+    align-items: center;
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px cornflowerblue;
+}
+.profile{
+    width: 200px;
+    height: 200px;
+    border-radius: 50px;
+    border: 1px;
+
+}
+.detail{
+
+}
